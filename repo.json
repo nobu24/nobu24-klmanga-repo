@@ -1,8 +1,6 @@
 {
   "meta": {
     "name": "nobu24 KL Manga",
-    "baseUrl": "https://raw.githubusercontent.com/nobu24/nobu24-klmanga-repo/repo",
-    "shortName": "KLManga",
     "website": "https://github.com/nobu24/nobu24-klmanga-repo",
     "signingKeyFingerprint": "6cbc56d1decfed3315ec9f509c3436336da45d9ec70b23008faa6fe049dd211e"
   }
