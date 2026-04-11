@@ -2,6 +2,7 @@
   "meta": {
     "name": "nobu24 KL Manga",
     "website": "https://github.com/nobu24/nobu24-klmanga-repo",
-    "signingKeyFingerprint": "6cbc56d1decfed3315ec9f509c3436336da45d9ec70b23008faa6fe049dd211e"
+    "signingKeyFingerprint": "6cbc56d1decfed3315ec9f509c3436336da45d9ec70b23008faa6fe049dd211e",
+    "baseUrl": "https://github.com/nobu24/nobu24-klmanga-repo/releases/download/v1.4.1"
   }
 }
